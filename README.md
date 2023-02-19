@@ -14,3 +14,8 @@ Here's a concise overview of the code
 
 ![image](https://user-images.githubusercontent.com/70504997/219970939-ea13fff1-5c18-4249-9c8e-3edc2cadfec0.png)
 
+
+
+- We are collecting the input parameters to the model using a webpage designed using Bootstrap4.
+- The result predicted by the model is then displayed in the form of a webpage.
+
